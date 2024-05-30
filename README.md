@@ -2,16 +2,16 @@
 
 **CodeCraft** is a boilerplate for PHP projects focused on code quality. This project serves as the basis for new projects, including a pre-installed configuration of several essential tools for keeping code clean, standardized and well-tested.
 
-## Pacotes
+## Pakages
 
-* PHPStan
-* PHPStan Strict Rules
-* PHPStan Deprecation Rules
-* PHPStan PHPunit
-* PHPUnit
-* PHP CodeSniffer
-* PHP CodeSniffer Security Audit
-* PHP Paraller Lint
+* [PHP Stan](https://github.com/phpstan/phpstan)
+* [PHP Stan Strict Rules](https://github.com/phpstan/phpstan-strict-rules)
+* [PHP Stan Deprecation Rules](https://github.com/phpstan/phpstan-deprecation-rules)
+* [PHP Stan PHPUnit](https://github.com/phpstan/phpstan-phpunit)
+* [PHP Unit](https://github.com/sebastianbergmann/phpunit)
+* [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+* [PHP CodeSniffer Security Audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit)
+* [PHP Paraller Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint)
 
 ## How to use
 
